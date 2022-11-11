@@ -1,14 +1,14 @@
 # BANTISSI_ZAKARIA
 
 
-### arabic-characters-recognition
+### 1- arabic-characters-recognition
 
 If you want to see my project and want to edit in it, visit my kaggle account!!
    https://www.kaggle.com/code/brahimjaponi/arabic-characters-recognition-95-06/settings
 
 
 
-### Traffic-Sign-Recognazition
+### 2- Traffic-Sign-Recognazition
 
 ## What is Traffic Sign Recognition? 
 * Traffic Sign Recognition (TSR) is an advanced driver assistance system (ADAS) that recognizes and relays traffic sign information to drivers via the instrument panel, multimedia, or heads-up display. In the United States, TSR systems can recognize speed limit signs, do not enter signs, and stop signs. Some can even detect yield signs, though it depends on the model. TSR aims to help make drivers more aware and able to make better safer driving decisions.  
